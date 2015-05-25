@@ -1,0 +1,5 @@
+mysql-connector-python==1.0.10
+pyasn1==0.1.7
+pycrypto==2.6
+pysnmp==4.2.4
+wsgiref==0.1.2
